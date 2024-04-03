@@ -1,2 +1,2 @@
-# Simpotel_Assignment
+# Simplotel_Assignment
 This is a project about rendering a website using HTML and CSS
